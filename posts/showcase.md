@@ -29,7 +29,7 @@ Hopefully this interactive repo can bring you the next job offer!
 
 ## 👾 Support
 
-Don't forget to heart, unicorn and save the dev.to article to spread your work around the world and make this visible.
+Don't forget to heart, unicorn and save the dev.to article to spread your work around the world and make this visible!
 
 ---
 
