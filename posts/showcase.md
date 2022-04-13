@@ -2,7 +2,7 @@
 title: Interactive Portfolio Showcase For Developers
 published: false
 description: A interactive showcase of developer portfolios. Contribute to the repositories will be merged into this dev.to article!
-tags: 'productivity, beginners, test'
+tags: 'career, webdev, programming'
 cover_image: ./assets/ben-kolde-bs2Ba7t69mM-unsplash.jpg
 canonical_url: null
 id: 1054249
@@ -10,15 +10,13 @@ id: 1054249
 
 # Developer Portfolio Showcase
 
-A interactive showcase of developer portfolios. Contributions to this repositories will be merged into this [dev.to article](https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-45f-temp-slug-8487513). 
+A interactive showcase of developer portfolios. Contributions to this repositories will be merged into this [dev.to article](https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-26jk-temp-slug-6409226). 
 
-Have you built a portfolio? Open a [PR](https://github.com/Gismo1337/interactive-portfolio-showcase/blob/main/CONTRIBUTING.md) to this repo and let's showcase your work live on dev.to!
-
-This repo was inspired by [devto-github-template](https://github.com/sinedied/devto-github-template) and [developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+Have you built a portfolio? Open a [PR](https://github.com/Gismo1337/interactive-portfolio-showcase/blob/main/CONTRIBUTING.md) to the repo and let's showcase your work live on dev.to!
 
 Hopefully this interactive repo can bring you the next job offer!
 
-# Important Step
+## Important Step
 
 Don't forget to heart, unicorn and save the dev.to article to spread your work around the world!
 
@@ -86,3 +84,5 @@ Don't forget to heart, unicorn and save the dev.to article to spread your work a
 
 Photo by <a href="https://unsplash.com/@benkolde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Kolde</a> on <a href="https://unsplash.com/s/photos/portfolio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+  
+This repo was inspired by [devto-github-template](https://github.com/sinedied/devto-github-template) and [developer-portfolios](https://github.com/emmabostian/developer-portfolios)

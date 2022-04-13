@@ -1,25 +1,30 @@
-# devto-github-template
+# interactive-portfolio-showcase
 
-[![Build Status](https://github.com/sinedied/devto-github-template/workflows/publish/badge.svg)](https://github.com/sinedied/devto-github-template/actions)
+Share your skills with the whole world and publish your portfolio directly on dev.to! Merge into main are automatically published to dev.to. Feel free to contribute.
 
-> Example repository setup for synchronizing markdown files as dev.to articles, using assets hosted on GitHub.
+## 💻 Contributor's Guide
+Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/Gismo1337/interactive-portfolio-showcase/issues).
 
-## Getting started
+Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
-1. Select **Use this template** on GitHub. This will create a new repository on your account from this template.
 
-2. Go to https://developers.forem.com/api/#section/Authentication/api_key and follow the **Getting an API key** instructions to generate your own dev.to API key.
+## 💪 Getting started
 
-3. Select the **Settings** tab on your GitHub repository, then go to the **Secrets** section.
+1. Fork this repository.
+2. Clone your new repository to your system.
+3. Create a new branch (i.e. `add/your-name`).
+4. Add your new site. Remember to add **alphabetically to the list.**
+5. Commit changes and push the new branch.
+6. Open and submit a PR.
+7. If your PR passed the manual Check your Portfolio go live on dev.to 
 
-4. Add a secret called **DEVTO_TOKEN** with the value of your dev.to API key.
+## 👨‍💻 Authors
 
-Now your articles are ready to be published on dev.to! 🎉
+- [@gismo1337](https://www.github.com/gismo1337)
 
-Have a look a the example article in `posts/example.md` to see how it works, then you just have to commit and push your changes to have them reflected on dev.to.
+## 🔗 Links
+[![devto](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gismo1337)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianrichter1337/)[![expo](https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/@g1sm0?tab=snacks)
 
-## How it works
+## 👾 Support
 
-This template is based on the [publish-devto](https://github.com/sinedied/publish-devto) action, which uses under the hood the [devto-cli](https://github.com/sinedied/devto-cli) to publish your articles.
-
-You can find more information about how it works in the [CLI readme](https://github.com/sinedied/devto-cli).
+Expect us.
