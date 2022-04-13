@@ -5,6 +5,7 @@ description: A interactive showcase of developer portfolios. Contribute to the r
 tags: 'productivity, beginners, test'
 cover_image: ./assets/ben-kolde-bs2Ba7t69mM-unsplash.jpg
 canonical_url: null
+id: 1054249
 ---
 
 # Developer Portfolio Showcase
