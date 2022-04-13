@@ -18,6 +18,10 @@ This repo was inspired by [devto-github-template](https://github.com/sinedied/de
 
 Hopefully this interactive repo can bring you the next job offer!
 
+# Important Step
+
+Don't forget to heart, unicorn and save the dev.to article to spread your work around the world!
+
 ---
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
