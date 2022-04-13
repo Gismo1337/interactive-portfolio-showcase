@@ -1,10 +1,12 @@
 ---
-title: 💻 Interactive Portfolio Showcase For Developers
+title: "\U0001F4BB Interactive Portfolio Showcase For Developers"
 published: true
 description: A interactive showcase of developer portfolios. Contribute to the repositories will be merged into this dev.to article!
 tags: 'career, webdev, programming'
 cover_image: ./assets/ben-kolde-bs2Ba7t69mM-unsplash.jpg
 canonical_url: null
+id: 1054301
+date: '2022-04-13T20:51:00Z'
 ---
 
 # The Interactive Developer Portfolio Showcase
