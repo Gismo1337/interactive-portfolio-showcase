@@ -1,11 +1,11 @@
 ---
 title: Interactive Portfolio Showcase For Developers
 published: false
-description: A interactive showcase of developer portfolios. Contribute to the repositories will be merged into this dev.to article
+description: A interactive showcase of developer portfolios. Contribute to the repositories will be merged into this dev.to article!
 tags: 'productivity, beginners, test'
 cover_image: ./assets/ben-kolde-bs2Ba7t69mM-unsplash.jpg
 canonical_url: null
-id: 10541003
+id: 1054100
 ---
 
 # Developer Portfolio Showcase
