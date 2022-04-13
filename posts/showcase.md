@@ -9,9 +9,9 @@ canonical_url: null
 
 # Developer Portfolio Showcase
 
-A interactive showcase of developer portfolios. Contribute to the repositories will be merged into this dev.to article.
+A interactive showcase of developer portfolios. Contributions to this repositories will be merged into this [dev.to article](https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-45f-temp-slug-8487513). 
 
-Have you built a portfolio? Open a [PR](./CONTRIBUTING.md) to this repo and let's showcase your work live on dev.to!
+Have you built a portfolio? Open a [PR](https://github.com/Gismo1337/interactive-portfolio-showcase/blob/main/CONTRIBUTING.md) to this repo and let's showcase your work live on dev.to!
 
 This repo was inspired by [devto-github-template](https://github.com/sinedied/devto-github-template) and [developer-portfolios](https://github.com/emmabostian/developer-portfolios)
 
