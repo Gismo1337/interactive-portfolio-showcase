@@ -1,5 +1,5 @@
 ---
-title: Example article title
+title: This is a Test
 published: false
 description: A simple test article
 tags: 'productivity, beginners, test'
