@@ -1,5 +1,5 @@
 ---
-title: Interactive Portfolio Showcase For Developers
+title: 💻 Interactive Portfolio Showcase For Developers
 published: false
 description: A interactive showcase of developer portfolios. Contribute to the repositories will be merged into this dev.to article!
 tags: 'career, webdev, programming'
@@ -8,7 +8,7 @@ canonical_url: null
 id: 1054249
 ---
 
-# Developer Portfolio Showcase
+# Developer Portfolio Showcase 💻
 
 A interactive showcase of developer portfolios. Contributions to this repositories will be merged into this [dev.to article](https://dev.to/gismo1337/interactive-portfolio-showcase-for-developers-26jk-temp-slug-6409226). 
 
