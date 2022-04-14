@@ -1,5 +1,5 @@
 ---
-title: "\U0001F4BB Interactive Portfolio Showcase For Developers"
+title: "Interactive Portfolio Showcase For Developers"
 published: true
 description: A interactive showcase of developer portfolios. Contribute to the repositories will be merged into this dev.to article!
 tags: 'career, webdev, programming'
