@@ -447,6 +447,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your work a
 ## T
 
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/)
+- [Taiwo Boluwatife](https://blyncnov.com)
 - [Tejas Kumar](http://tej.as)
 - [Tejaswi Chaudhari](https://tejaswichaudhari.me/)
 - [Tek Raj Joshi](https://t3kraj.netlify.app)
@@ -486,7 +487,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your work a
 
 - [Wajahat Ali Abid](https://wajahataliabid.github.io/)
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
-
+-
 ## Y
 
 - [Yash Johri](https://yash1200.github.io/)
