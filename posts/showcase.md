@@ -52,6 +52,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your work a
 - [Adil Aboulkacim](https://adilaboulkacim.com/)
 - [Aditya Vikram Singh](https://www.adityavsingh.com/)
 - [Adityakumar Sinha](https://aditya113141.github.io/)
+- [Agustin Vazquez](https://www.agustinvazquez.com/)
 - [Agney Menon](https://agney.dev)
 - [Ahmad Awais](https://ahmadawais.com/)
 - [Ahsan Khan](https://ahsankhan.me/)
