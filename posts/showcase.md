@@ -235,6 +235,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your work a
 - [Jai Kirdatt](https://JaiK.me)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
 - [Jake Ginesin](https://jakegines.in/)
+- [Jakub T. Jankiewicz)(https://jakub.jankiewicz.org/)
 - [James Mutuku](https://mutuku.me)
 - [James Turner](http://turnerj.com)
 - [Jane Manchun Wong](http://wongmjane.com)
